@@ -23,7 +23,11 @@ To be filled after running on the final real dataset.
 
 pip install -r requirements.txt
 streamlit run app.py
-Limitations
+
+
+**Limitations**
+
+
 Weather totals ignore traffic exposure and do not prove causation.
 The high-risk label is a proxy based on historical counts.
 Demo data is synthetic; report only metrics from real data.
