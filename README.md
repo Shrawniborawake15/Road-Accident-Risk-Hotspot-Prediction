@@ -22,6 +22,7 @@ To be filled after running on the final real dataset.
 
 
 pip install -r requirements.txt
+
 streamlit run app.py
 
 
