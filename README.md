@@ -37,5 +37,7 @@ Demo data is synthetic; report only metrics from real data.
 
 
 Nikita Jori :- implementation (data cleaning, EDA, feature engineering, Linear and Logistic Regression models, hotspot map, Streamlit app), GitHub repository
+
 Shrawani Borawake :- project idea, problem definition, presentation (PPT), dataset search and testing
+
 Samruddhi Bodakhe :- documentation support, app testing, screenshots, proofreading
